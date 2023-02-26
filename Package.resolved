@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/stateman92/ColorChangingLabel.git",
       "state" : {
-        "revision" : "47664939b794a19e1356c209ee85ea694771cc42",
-        "version" : "0.0.3"
+        "revision" : "fbaa29337d0b889a7420323e126a32940a099045",
+        "version" : "0.0.5"
       }
     }
   ],
